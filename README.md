@@ -13,6 +13,6 @@ Agora, atualizando...
 
 Realizei um __*pull request*__ da branch ```readme-edit```, com isso, a main branch foi atualizada com o que foi desenvolvido na branch separada. Assim, realizando o __*merge*__ da pull request, e tornando a branch ```readme-edit``` parte da main branch.
 
-Após isso, excluí a branch ```readme-edit``` pois já havia se tornado parte da main branch. Assim, concluindo o exercício__*HELLO WORLD GIT!*__.
+Após isso, excluí a branch ```readme-edit``` pois já havia se tornado parte da main branch. Assim, concluindo o exercício __*HELLO WORLD GIT!*__.
 
 Continuamos estudando e aprendendo! 😎👍
